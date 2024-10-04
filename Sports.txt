@@ -1,0 +1,77 @@
+| **Sport**                      | **MET** |
+|---------------------------------|---------|
+| Aerobics                        | 5.0-7.0 |
+| Aikido                          | 10.3    |
+| Archery                         | 4.3     |
+| Badminton                       | 4.5-7.0 |
+| Ballet                          | 5.0-6.0 |
+| Baseball                        | 5.0     |
+| Basketball                      | 6.5-8.0 |
+| Bowling                         | 3.0     |
+| Boxing                          | 12.8    |
+| Capoeira                        | 7.0     |
+| Canoeing (Moderate Effort)       | 7.0     |
+| Cricket                         | 5.0     |
+| Cross-Country Skiing            | 9.0     |
+| CrossFit                        | 8.0     |
+| Curling                         | 4.0     |
+| Cycling (General)               | 4.0-16.0|
+| Dance (General)                 | 5.0-8.0 |
+| Darts                           | 2.5     |
+| Disc Golf (Frisbee Golf)         | 3.0     |
+| Dodgeball                       | 5.0     |
+| Dragon Boat Racing              | 7.0     |
+| Equestrian (Horse Riding)       | 4.3-7.3 |
+| Fencing                         | 6.0     |
+| Field Hockey                    | 7.8     |
+| Fishing (General)               | 3.5     |
+| Floorball                       | 8.0     |
+| Football (Soccer)               | 7.0-10.0|
+| Frisbee Golf                    | 3.0     |
+| Futsal                          | 8.0     |
+| Gaelic Football                 | 8.0     |
+| Golf                            | 4.3-6.0 |
+| Gymnastics                      | 3.8     |
+| Handball                        | 8.0     |
+| Hiking                          | 6.0-7.3 |
+| Ice Hockey                      | 8.0     |
+| Ice Skating                     | 7.0     |
+| Inline Skating (Rollerblading)  | 7.0-12.5|
+| Judo                            | 10.0    |
+| Jiu-Jitsu                       | 10.0    |
+| Karate                          | 10.3    |
+| Kayaking                        | 5.0-12.5|
+| Kickboxing                      | 10.0    |
+| Lacrosse                        | 8.0     |
+| Martial Arts (General)          | 10.0    |
+| Muay Thai                       | 10.0    |
+| Netball                         | 7.0     |
+| Nordic Walking                  | 6.0     |
+| Orienteering                    | 9.0     |
+| Paddleboarding                  | 4.5     |
+| Padel Tennis                    | 6.0     |
+| Pilates                         | 3.0     |
+| Racquetball                     | 7.0-10.0|
+| Roller Derby                    | 8.0     |
+| Rowing (Moderate Effort)        | 7.0     |
+| Rugby                           | 8.3     |
+| Running (General)               | 7.0-16.0|
+| Sailing                         | 3.0-4.0 |
+| Skateboarding                   | 5.0     |
+| Skiing (Cross-Country)          | 9.0     |
+| Softball                        | 4.0     |
+| Squash                          | 7.3-12.0|
+| Swimming (General)              | 6.0-10.0|
+| Table Tennis (Ping Pong)         | 4.0-5.0 |
+| Tai Chi                         | 3.0     |
+| Tennis                          | 7.3-10.0|
+| Trampolining                    | 4.0     |
+| Ultimate Frisbee                | 8.0     |
+| Volleyball                      | 3.0-8.0 |
+| Wakeboarding                    | 6.0     |
+| Water Polo                      | 10.0    |
+| Weightlifting                   | 6.0     |
+| Windsurfing                     | 7.0     |
+| Wrestling                       | 6.0-8.0 |
+| Yoga                            | 2.5-4.0 |
+| Zumba                           | 5.5     |
